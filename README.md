@@ -161,15 +161,16 @@
 </head>
 <body>
   <div class="pedido">
-    <h1>  Oi meu bem,  
-Aceita meu pedido de desculpas?</h1>
+    <h1>  O</h1>
   </div>
   <div class="botoes">
     <button id="sim" class="botao">Sim</button>
     <button id="nao" class="botao">Não</button>
   </div>
   <div id="animacao" class="animacao">
-       Provavelmente vai ser um sim, mas se ainda quiser conversar cmg.. estarei te esperando nesse endereço aqui hoje -18.8580114,-41.9499579 ❤️‍🩹
+      
+    
+
   </div>
 
   <script>
