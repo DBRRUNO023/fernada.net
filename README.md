@@ -1,7 +1,7 @@
 <html>
 <head>
   <meta charset="UTF-8">
-  <title>Pedido de Desculpas</title>
+  <title></title>
   <style>
     body {
       font-family: Arial, sans-serif;
